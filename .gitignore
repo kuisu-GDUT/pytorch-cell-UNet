@@ -1,0 +1,13 @@
+*.pyc
+data/
+wandb/
+__pycache__/
+checkpoints/
+*.pth
+*.pt
+*.jpg
+*.png
+*.tif
+*.gif
+venv/
+.idea/
